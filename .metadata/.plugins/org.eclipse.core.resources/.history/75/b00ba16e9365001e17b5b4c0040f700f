@@ -1,0 +1,64 @@
+package com.OHRM_MultipleTestData;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class MultipleTestDataLoginPage {
+
+	public static void main(String[] args) throws IOException {
+		//ChromeDriver driver;
+				// WebDriver is an interface of Selenium
+
+				WebDriver driver;
+				String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+
+				// Excel file - with Test Data
+				FileInputStream orangeHRMApplicationLogInTestDataFile = new FileInputStream("./src/com/OrangeHRMApplicationLoginTestDataFiles/OrangeHRMApplicationLoginTestData.xlsx");
+				XSSFWorkbook workBook = new XSSFWorkbook(orangeHRMApplicationLogInTestDataFile);
+				XSSFSheet testDataSheet = workBook.getSheet("Sheet1");
+      
+						//Identifying the number of Active Rows
+						int rowCount = testDataSheet.getLastRowNum();
+						
+						//To goto an Active Row
+						for (int rowIndex=0;rowIndex<=rowCount;rowIndex++)
+						{
+					//To goto an Active Row in the Sheet
+							Row testDataSheetRow=testDataSheet.getRow(rowIndex);
+						
+							//Identifying the Number of activeRow of all the activeCells
+							int sheetRowOfCellsCount=testDataSheetRow.getLastCellNum();
+							
+							//To goto every ActiveRow of All the active cells - to get the data
+							for (int rowOfCellIndex=0;rowOfCellIndex<sheetRowOfCellsCount;rowOfCellIndex++)
+							{
+								//Going to an Active Row of an Active Cell
+								Cell rowOfCell=testDataSheetRow.getCell(rowOfCellIndex);
+								String ValidData=rowOfCell.getStringCellValue();  //get the data from the row of cell
+								
+                              
+								
+								System.out.println(ValidData+" | ");
+								
+							}
+						
+						System.out.println();
+					}
+
+				}
+				}
+				
+	
+
+			

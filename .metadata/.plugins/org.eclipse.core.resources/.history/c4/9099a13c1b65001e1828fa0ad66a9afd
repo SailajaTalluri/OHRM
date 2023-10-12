@@ -1,0 +1,5 @@
+package com.OrangeHRMApplicationTestCases_Log4j;
+
+public class BaseTest_Log4j {
+
+}

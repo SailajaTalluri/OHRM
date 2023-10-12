@@ -1,0 +1,52 @@
+2023-10-10 21:52:45,844 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 21:52:46,313 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:52:46,497 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 21:52:46,499 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS 
+2023-10-10 21:52:46,598 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 21:53:30,346 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 21:53:30,780 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:53:30,960 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 21:53:30,963 - Log -INFO -  Successfully Navigated to OrangeHRM Application LogIN Page - PASS 
+2023-10-10 21:53:31,066 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 21:59:01,288 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 21:59:01,757 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 21:59:01,894 - Log -INFO - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+2023-10-10 21:59:01,926 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 21:59:01,928 - Log -INFO -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+2023-10-10 21:59:02,028 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 22:13:39,135 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 22:13:40,281 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:13:40,421 - Log -INFO - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+2023-10-10 22:13:40,471 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 22:13:40,474 - Log -INFO -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+2023-10-10 22:13:40,599 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 22:15:39,457 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 22:15:40,696 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:15:40,840 - Log -INFO - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+2023-10-10 22:15:40,886 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 22:15:40,887 - Log -INFO -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+2023-10-10 22:15:41,004 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 22:18:28,979 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 22:18:29,485 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:18:29,628 - Log -INFO - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+2023-10-10 22:18:29,690 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 22:18:29,692 - Log -INFO -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+2023-10-10 22:18:29,798 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 22:30:28,483 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 22:30:29,003 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:30:29,140 - Log -INFO - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+2023-10-10 22:30:29,185 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 22:30:29,187 - Log -INFO -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+2023-10-10 22:30:29,331 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 22:33:38,193 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 22:33:38,899 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:33:39,051 - Log -INFO - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+2023-10-10 22:33:39,102 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 22:33:39,104 - Log -INFO -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+2023-10-10 22:33:39,233 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********
+2023-10-10 22:45:32,740 - Log -INFO - ***** Chrome Browser Launched Successfully ************ 
+2023-10-10 22:45:33,225 - Log -INFO -  Successfully Navigated to OrangeHRM Application 
+2023-10-10 22:45:33,383 - Log -INFO - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+2023-10-10 22:45:33,447 - Log -INFO -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+2023-10-10 22:45:33,451 - Log -INFO -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+2023-10-10 22:45:33,590 - Log -INFO -  ********** Successfully Closed OrangeHRM Application **********

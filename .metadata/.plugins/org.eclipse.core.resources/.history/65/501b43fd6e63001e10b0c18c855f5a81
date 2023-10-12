@@ -1,0 +1,15 @@
+#OrangeHRMApplication UserName locator is id and its Property is txtUsername
+# Key
+orangeHRMApplicationLogInPage_UserNameProperty=txtUsername
+
+#OrangeHRM Application Password locator is name and its property is txtPassword
+orangeHRMApplicationLogInPage_PasswordProperty=txtPassword
+
+#OrangeHRM Application LogIn Button locator is ClassName and its Property is button
+orangeHRMApplicationLogInPage_LogInButtonProperty=button
+
+#OrangeHRM Application WelcomeAdmin locator id and its property is Welcome
+orangeHRMApplicationHomePage_WelcomeAdminProperty=welcome
+
+#OrangeHRM Application LogOut locator is link Text and its property is Logout
+orangeHRMApplicationHomePage_LogOutProperty=Logout 

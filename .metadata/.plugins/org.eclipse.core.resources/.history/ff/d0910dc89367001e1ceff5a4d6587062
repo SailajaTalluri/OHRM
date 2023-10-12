@@ -1,0 +1,1698 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:52:45 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>978</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:52:46 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1447</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:52:46 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1631</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:52:46 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1633</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application LogIN Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:52:46 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1732</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:53:30 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>889</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:53:30 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1323</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:53:30 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1503</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:53:30 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1506</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application LogIN Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:53:31 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1609</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:59:01 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>931</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:59:01 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1400</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:59:01 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1537</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:59:01 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1569</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:59:01 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1571</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application Login Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 21:59:02 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1671</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:13:39 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1083</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:13:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2229</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:13:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2369</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:13:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2419</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:13:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2422</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application Login Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:13:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2547</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:15:39 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>937</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:15:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2176</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:15:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2320</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:15:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2366</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:15:40 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2367</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application Login Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:15:41 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2484</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:18:28 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>950</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:18:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1456</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:18:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1599</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:18:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1661</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:18:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1663</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application Login Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:18:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1769</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:30:28 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>939</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:30:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1459</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:30:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1596</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:30:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1641</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:30:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1643</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application Login Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:30:29 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1787</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:33:38 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>968</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:33:38 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1674</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:33:39 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1826</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:33:39 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1877</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:33:39 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1879</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application Login Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:33:39 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>2008</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:45:32 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>992</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">***** Chrome Browser Launched Successfully ************ </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:45:33 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1477</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:45:33 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1635</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message">The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:45:33 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1699</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel</td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:45:33 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1703</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> Successfully Navigated to OrangeHRM Application Login Page - PASS </td>
+</tr>
+</table>
+<br>
+</body></html><!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Application log</title>
+<style type="text/css">
+<!--
+body, table {font-family: arial,sans-serif; font-size: x-small;}
+th {background: #336699; color: #FFFFFF; text-align: left;}
+-->
+</style>
+</head>
+<body bgcolor="#FFFFFF" topmargin="6" leftmargin="6">
+<hr size="1" noshade>
+Log session start time Tue Oct 10 22:45:33 IST 2023<br>
+<br>
+<table cellspacing="0" cellpadding="4" border="1" bordercolor="#224466" width="100%">
+<tr>
+<th>Time</th>
+<th>Thread</th>
+<th>Level</th>
+<th>Category</th>
+<th>Message</th>
+</tr>
+
+<tr>
+<td>1842</td>
+<td title="main thread">main</td>
+<td title="Level">INFO</td>
+<td title="Log category">Log</td>
+<td title="Message"> ********** Successfully Closed OrangeHRM Application **********</td>
+</tr>

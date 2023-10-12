@@ -1,0 +1,555 @@
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application 
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application 
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Succesfully LogOut from OrangeHRM Application
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ***** Chrome Browser Launched Successfully ************ 
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******
+[main] INFO Log - *****Chrome Browser Launched Successfully*****
+[main] INFO Log - Successfully Navigated to OrangeHRM Application
+[main] INFO Log - The expected OrangeHRM Application LogIn Page Text is :-LOGIN Panel
+[main] INFO Log -  The actual OrangeHRM Application LogIn Page Text is :- LOGIN Panel
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application Login Page - PASS 
+[main] INFO Log -  The expected Text of OrangeHRM Application HomePage is :- Admin
+[main] INFO Log -  The actual Text of OrangeHRM Application HomePage is :- Welcome Admin
+[main] INFO Log -  Successfully Navigated to OrangeHRM Application HomePage - PASS
+[main] INFO Log - Successfully LogOut from OrangeHRM Application
+[main] INFO Log - ******* Successfully Closed Orange HRM Application *******

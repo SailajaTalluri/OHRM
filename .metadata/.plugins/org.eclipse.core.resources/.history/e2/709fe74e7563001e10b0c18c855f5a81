@@ -1,0 +1,11 @@
+package com.OrangeHRMApplicationTesting_Log4j;
+
+import java.io.FileInputStream;
+
+public class OrangeHRMApplication_LogInTest extends BaseTest {
+	
+	FileInputStream orangeHRMApplicationLogInTestDataFile;
+	
+	
+
+}

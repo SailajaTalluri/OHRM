@@ -1,0 +1,798 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 144799000,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should open Chrome Browser in the System",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_open_Chrome_Browser_in_the_System()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 2333716300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "Validating OrangeHRM Application LogIn WebPage",
+        "description": "",
+        "id": "orangehrm-application-functionalities-testing;validating-orangehrm-application-login-webpage",
+        "after": [
+          {
+            "result": {
+              "duration": 110730600,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 825755500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "User should enter the OrangeHRM Application Url Address",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_enter_the_OrangeHRM_Application_Url_Address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 45466700,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "User should be navigated to OrangeHRM Application LogIn WebPage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@Smoke"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 214200,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should open Chrome Browser in the System",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_open_Chrome_Browser_in_the_System()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 11,
+            "value": "#Then User should close the Chrome Browser along with OrangeHRM Application"
+          }
+        ],
+        "before": [
+          {
+            "result": {
+              "duration": 1461227100,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 13,
+        "name": "Validating OrangeHRM Application LogIn Functionality Test",
+        "description": "",
+        "id": "orangehrm-application-functionalities-testing;validating-orangehrm-application-login-functionality-test",
+        "after": [
+          {
+            "result": {
+              "duration": 183133700,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 581284200,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 15,
+                "value": "#Given User should open Chrome Browser in the System"
+              }
+            ],
+            "line": 16,
+            "name": "User should enter the OrangeHRM Application Url Address",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_enter_the_OrangeHRM_Application_Url_Address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 65367100,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "User should be navigated to OrangeHRM Application LogIn WebPage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1830872900,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "User should enter userName and password and click on logIn button",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_enter_userName_and_password_and_click_on_logIn_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 79651700,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "User should be navigated to OrangeHRM Application HomePage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_HomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 875629400,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "User should logOut from the OrangeHRM Application",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_logOut_from_the_OrangeHRM_Application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 12,
+            "name": "@ReTesting"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 161500,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should open Chrome Browser in the System",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_open_Chrome_Browser_in_the_System()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1366038400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 35,
+        "name": "Validating OrangeHRM Application LogIn Functionality Test with Test Data",
+        "description": "",
+        "id": "orangehrm-application-functionalities-testing;validating-orangehrm-application-login-functionality-test-with-test-data;;2",
+        "after": [
+          {
+            "result": {
+              "duration": 158135300,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 802826100,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 25,
+                "value": "#Given User should open Chrome Browser in the System"
+              }
+            ],
+            "line": 26,
+            "name": "User should enter the OrangeHRM Application Url Address",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_enter_the_OrangeHRM_Application_Url_Address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 37343400,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "User should be navigated to OrangeHRM Application LogIn WebPage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2000471500,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User should enter \"Admin\" and \"Livetech@123\" and click on logIn button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 19
+                },
+                {
+                  "val": "Livetech@123",
+                  "offset": 31
+                }
+              ],
+              "location": "OrangeHRMApplicationMethods.user_should_enter_and_and_click_on_logIn_button(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 58926200,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User should be navigated to OrangeHRM Application HomePage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_HomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 842483700,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User should logOut from the OrangeHRM Application",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_logOut_from_the_OrangeHRM_Application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@ReTesting"
+          },
+          {
+            "line": 22,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 93900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should open Chrome Browser in the System",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_open_Chrome_Browser_in_the_System()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1447181000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 36,
+        "name": "Validating OrangeHRM Application LogIn Functionality Test with Test Data",
+        "description": "",
+        "id": "orangehrm-application-functionalities-testing;validating-orangehrm-application-login-functionality-test-with-test-data;;3",
+        "after": [
+          {
+            "result": {
+              "duration": 128418000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 621753900,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 25,
+                "value": "#Given User should open Chrome Browser in the System"
+              }
+            ],
+            "line": 26,
+            "name": "User should enter the OrangeHRM Application Url Address",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_enter_the_OrangeHRM_Application_Url_Address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 58061500,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "User should be navigated to OrangeHRM Application LogIn WebPage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1349535900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User should enter \"Admin\" and \"Testing\" and click on logIn button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 19
+                },
+                {
+                  "val": "Testing",
+                  "offset": 31
+                }
+              ],
+              "location": "OrangeHRMApplicationMethods.user_should_enter_and_and_click_on_logIn_button(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 10050083700,
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#welcome\"}\n  (Session info: chrome\u003d117.0.5938.150)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.7.1\u0027, revision: \u00278a0099a\u0027, time: \u00272017-11-06T21:01:39.354Z\u0027\nSystem info: host: \u0027DESKTOP-1KAEUVT\u0027, ip: \u0027127.0.0.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002715.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.88 (be6afae47212..., userDataDir: C:\\Users\\dell\\AppData\\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56620}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 72df3fdb6a7a42cbe1e0b2ce964a4d2d\n*** Element info: {Using\u003did, value\u003dwelcome}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:416)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:218)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)\r\n\tat com.StepDefination.OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_HomePage(OrangeHRMApplicationMethods.java:134)\r\n\tat ✽.Then User should be navigated to OrangeHRM Application HomePage(OrangeHRMApplication.feature:29)\r\n",
+              "status": "failed"
+            },
+            "line": 29,
+            "name": "User should be navigated to OrangeHRM Application HomePage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_HomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "User should logOut from the OrangeHRM Application",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_logOut_from_the_OrangeHRM_Application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@ReTesting"
+          },
+          {
+            "line": 22,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 202900,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should open Chrome Browser in the System",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_open_Chrome_Browser_in_the_System()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1415291800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 37,
+        "name": "Validating OrangeHRM Application LogIn Functionality Test with Test Data",
+        "description": "",
+        "id": "orangehrm-application-functionalities-testing;validating-orangehrm-application-login-functionality-test-with-test-data;;4",
+        "after": [
+          {
+            "result": {
+              "duration": 125590200,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 655742100,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 25,
+                "value": "#Given User should open Chrome Browser in the System"
+              }
+            ],
+            "line": 26,
+            "name": "User should enter the OrangeHRM Application Url Address",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_enter_the_OrangeHRM_Application_Url_Address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 56277700,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "User should be navigated to OrangeHRM Application LogIn WebPage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 501060700,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User should enter \"Hello\" and \"Livetech@123\" and click on logIn button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Hello",
+                  "offset": 19
+                },
+                {
+                  "val": "Livetech@123",
+                  "offset": 31
+                }
+              ],
+              "location": "OrangeHRMApplicationMethods.user_should_enter_and_and_click_on_logIn_button(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 10051561800,
+              "error_message": "org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#welcome\"}\n  (Session info: chrome\u003d117.0.5938.150)\nFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html\nBuild info: version: \u00273.7.1\u0027, revision: \u00278a0099a\u0027, time: \u00272017-11-06T21:01:39.354Z\u0027\nSystem info: host: \u0027DESKTOP-1KAEUVT\u0027, ip: \u0027127.0.0.1\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u002715.0.1\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 117.0.5938.150, chrome: {chromedriverVersion: 117.0.5938.88 (be6afae47212..., userDataDir: C:\\Users\\dell\\AppData\\Local...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56643}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}\nSession ID: 6cbfb58388c388897ba083a284235de8\n*** Element info: {Using\u003did, value\u003dwelcome}\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:64)\r\n\tat java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)\r\n\tat java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:500)\r\n\tat java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:481)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:416)\r\n\tat org.openqa.selenium.By$ById.findElement(By.java:218)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)\r\n\tat com.StepDefination.OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_HomePage(OrangeHRMApplicationMethods.java:134)\r\n\tat ✽.Then User should be navigated to OrangeHRM Application HomePage(OrangeHRMApplication.feature:29)\r\n",
+              "status": "failed"
+            },
+            "line": 29,
+            "name": "User should be navigated to OrangeHRM Application HomePage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_HomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 30,
+            "name": "User should logOut from the OrangeHRM Application",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_logOut_from_the_OrangeHRM_Application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@ReTesting"
+          },
+          {
+            "line": 22,
+            "name": "@Regression"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 189400,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "User should open Chrome Browser in the System",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_open_Chrome_Browser_in_the_System()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 1402299000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 38,
+        "name": "Validating OrangeHRM Application LogIn Functionality Test with Test Data",
+        "description": "",
+        "id": "orangehrm-application-functionalities-testing;validating-orangehrm-application-login-functionality-test-with-test-data;;5",
+        "after": [
+          {
+            "result": {
+              "duration": 116983800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 863839900,
+              "status": "passed"
+            },
+            "comments": [
+              {
+                "line": 25,
+                "value": "#Given User should open Chrome Browser in the System"
+              }
+            ],
+            "line": 26,
+            "name": "User should enter the OrangeHRM Application Url Address",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_enter_the_OrangeHRM_Application_Url_Address()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 83508800,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "User should be navigated to OrangeHRM Application LogIn WebPage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1783410000,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "User should enter \"Admin\" and \"Livetech@123\" and click on logIn button",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Admin",
+                  "offset": 19
+                },
+                {
+                  "val": "Livetech@123",
+                  "offset": 31
+                }
+              ],
+              "location": "OrangeHRMApplicationMethods.user_should_enter_and_and_click_on_logIn_button(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 61366600,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "User should be navigated to OrangeHRM Application HomePage",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_be_navigated_to_OrangeHRM_Application_HomePage()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 884895300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "User should logOut from the OrangeHRM Application",
+            "match": {
+              "location": "OrangeHRMApplicationMethods.user_should_logOut_from_the_OrangeHRM_Application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 22,
+            "name": "@ReTesting"
+          },
+          {
+            "line": 22,
+            "name": "@Regression"
+          }
+        ]
+      }
+    ],
+    "name": "OrangeHRM Application Functionalities Testing",
+    "description": "",
+    "id": "orangehrm-application-functionalities-testing",
+    "keyword": "Feature",
+    "uri": "OrangeHRMApplication.feature"
+  }
+]

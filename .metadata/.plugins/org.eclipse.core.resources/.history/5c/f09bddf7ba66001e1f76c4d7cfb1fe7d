@@ -1,0 +1,9 @@
+package com.OrangeHRMApplicationPages;
+
+import com.BaseTest.BaseTest;
+
+public class OrangeHRMApplication_HomePage extends BaseTest {
+	
+	
+
+}

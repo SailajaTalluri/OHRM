@@ -1,0 +1,46 @@
+package com.StepDefination;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import com.Utility.Log;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.When;
+
+public class OrangeHRMApplicationMethod {
+
+	WebDriver driver;
+	String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+	
+	public OrangeHRMApplicationMethod(Hooks hook) //Its a constructor
+	{
+		driver=hook.driver;
+	}
+	
+	@Given("^User should open Chrome Browser in the System$")
+	public void user_should_open_Chrome_Browser_in_the_System()
+	{
+		//System.setProperty("webdriver.chrome.driver", "C:\\Users\\dell\\Desktop\\OHRMAutomation\\OrangeHRMApplicationMaven_Cucumber\\browserDriverFiles\\chromedriver.exe");
+		//driver = new ChromeDriver();
+		//Log.info("***** Chrome Browser Launched Successfully ************ ");
+	}
+	
+	@When("^User should enter the OrangeHRM Application Url Address$")
+	public void user_should_enter_the_OrangeHRM_Application_Url_Address()
+	{
+		driver.get(applicationUrlAddress);
+		Log.info(" Successfully Navigated to OrangeHRM Application ");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	}
+	
+	
+	
+	
+	
+
+}

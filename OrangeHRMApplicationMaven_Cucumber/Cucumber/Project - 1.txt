@@ -1,0 +1,241 @@
+Project - 1
+
+package com.StepDefination;
+import org.junit.runner.RunWith;
+import cucumber.api.CucumberOptions;
+import cucumber.api.junit.Cucumber;
+@RunWith(Cucumber.class)
+@CucumberOptions(features="OrangeHRMApplication",
+glue="com.StepDefination", // will connect the Feature file with
+                          //  the User-defined methods class - which will
+                         // perform the actions related to statements of
+                        //  the Scenario
+monochrome=true // Will remove the Junk data from the Test Result - in Console
+//dryRun=true // will compare the Feature file Scenarios with the Methods Class
+          // - if the Steps of the Scenarios are not found in methods class
+          //   the it creates the Methods without executing the Steps of
+          //    all the Scenarios
+//tags="@ReTesting"
+//tags="@Smoke" // running a particular Scenario
+//tags="@Smoke,@ReTesting"
+//tags="@Smoke,@Regression" // running the respective Test Scenarios
+
+/*plugin = { "pretty",
+"html:target/OrangeHRMApplicationReports",
+"json:target/OrangeHRMApplicationJsonReport.json",
+"com.cucumber.listener.ExtentCucumberFormatter:target/OrangeHRMApplicationExtentReports.htm"
+}
+*/
+)
+
+public class TestRunner {
+
+}
+
+
+package com.StepDefination;
+
+import java.util.concurrent.TimeUnit;
+
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+import com.Utility.Log;
+
+import cucumber.api.java.en.Given;
+import cucumber.api.java.en.Then;
+import cucumber.api.java.en.When;
+
+public class OrangeHRMApplicationMethods {
+	WebDriver driver;
+	String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+
+	@Given("^User should open Chrome Browser in the System$")
+	public void user_should_open_Chrome_Browser_in_the_System() {
+		System.setProperty("webdriver.chrome.driver", "C:\\Users\\dell\\Desktop\\OHRMAutomation\\OrangeHRMApplicationMaven_Cucumber\\browserDriverFiles\\chromedriver.exe");
+		driver = new ChromeDriver();
+		Log.info("***** Chrome Browser Launched Successfully ************ ");
+		driver.manage().window().maximize();
+		driver.manage().timeouts().pageLoadTimeout(20, TimeUnit.SECONDS);
+		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
+	}
+
+	@When("^User should enter the OrangeHRM Application Url Address$")
+	public void user_should_enter_the_OrangeHRM_Application_Url_Address()  {
+		driver.get(applicationUrlAddress);
+		Log.info(" Successfully Navigated to OrangeHRM Application ");
+	 
+	}
+
+	@Then("^User should be navigated to OrangeHRM Application LogIn WebPage$")
+	public void user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage()  {
+		// id="logInPanelHeading"//<div id="logInPanelHeading">LOGIN Panel</div>
+				String expected_OrangeHRMApplicationLogInPageText="LOGIN Panel";
+				//System.out.println(" The expected OrangeHRM Application LogIn Page Text is :- "+expected_OrangeHRMApplicationLogInPageText);
+		       Log.info("The expected OrangeHRM Application LogIn Page Text is :-"+expected_OrangeHRMApplicationLogInPageText);
+				
+		       By logInPageTextProperty=By.id("logInPanelHeading");
+				WebElement logInPageText=driver.findElement(logInPageTextProperty);
+
+				String actual_OrangeHRMApplicationLogInPageText=logInPageText.getText();
+				// System.out.println(" The actual OrangeHRM Application LogIn Page Text is :- "+actual_OrangeHRMApplicationLogInPageText);
+
+				Log.info(" The actual OrangeHRM Application LogIn Page Text is :- "+actual_OrangeHRMApplicationLogInPageText);
+
+
+				if(actual_OrangeHRMApplicationLogInPageText.equals(expected_OrangeHRMApplicationLogInPageText))
+				{
+				//System.out.println(" Successfully Navigated to OrangeHRM Application Login Page - PASS ");
+				Log.info(" Successfully Navigated to OrangeHRM Application Login Page - PASS ");
+
+				}
+				else
+				{
+				//System.out.println(" Failed to Navigate to OrangeHRM Application LogIN Page - FAIL ");
+				Log.info("Failed to Navigate to OrangeHRM Application Login Page - FAIL ");
+				}
+	  
+	}
+
+	@Then("^User should close the Chrome Browser along with OrangeHRM Application$")
+	public void user_should_close_the_Chrome_Browser_along_with_OrangeHRM_Application()  {
+		driver.close();
+		System.out.println("browser first closed");
+	   
+	}
+
+	@Then("^User should enter userName and Password and click on logIn button$")
+	public void user_should_enter_userName_and_Password_and_click_on_logIn_button()  {
+		// driver.findElement(By.id("txtUsername")).sendKeys("Admin");
+				//<input name="txtUsername" id="txtUsername" type="text">
+				String userNameTestData="Admin"; // Test Data
+				By userNameProperty=By.id("txtUsername");
+				//identifying the property of an element - userName
+				// Identifying the Element(userName) on the Current WebPage
+				WebElement userName=driver.findElement(userNameProperty);
+				// Performing Operation on the UserName WebElement
+				userName.sendKeys(userNameTestData);
+
+		//<input name="txtPassword" id="txtPassword" autocomplete="off" type="password">
+				String passwordTestData="Livetech@123";
+				By passwordProperty=By.name("txtPassword");
+				WebElement password=driver.findElement(passwordProperty);
+				password.sendKeys(passwordTestData);
+			
+			//<input type="submit" name="Submit" class="button" id="btnLogin" value="LOGIN">
+			By logInButtonProperty=By.className("button");
+			WebElement logInButton=driver.findElement(logInButtonProperty);
+			logInButton.click();
+	}
+	WebElement welComeAdmin;
+
+	@Then("^User should be navigated to OrangeHRM Application HomePage$")
+	public void user_should_be_navigated_to_OrangeHRM_Application_HomePage()  {
+		By welComeAdminProperty=By.id("welcome");
+		welComeAdmin=driver.findElement(welComeAdminProperty);
+		String expected_OrangeHRMApplicationHomePageText="Admin";
+		//System.out.println(" The expected Text of OrangeHRM Application HomePage is :- "+expected_OrangeHRMApplicationHomePageText);
+		Log.info(" The expected Text of OrangeHRM Application HomePage is :- "+expected_OrangeHRMApplicationHomePageText);
+		String actual_OrangeHRMApplicationHomePageText=welComeAdmin.getText();
+		//System.out.println(" The actual Text of OrangeHRM Application HomePage is :- "+actual_OrangeHRMApplicationHomePageText);
+		Log.info(" The actual Text of OrangeHRM Application HomePage is :- "+actual_OrangeHRMApplicationHomePageText);
+		if(actual_OrangeHRMApplicationHomePageText.contains(expected_OrangeHRMApplicationHomePageText))
+		{
+		// System.out.println(" Successfully Navigated to OrangeHRM Application HomePage - PASS");
+		Log.info(" Successfully Navigated to OrangeHRM Application HomePage - PASS");
+		}
+		else
+		{
+		// System.out.println(" Failed to navigate to OrangeHRM Application HomePage - FAIL ");
+		Log.info(" Failed to navigate to OrangeHRM Application HomePage - FAIL ");
+		}
+	}
+
+	@Then("^User should logout from the OrangeHRM Application$")
+	public void user_should_logout_from_the_OrangeHRM_Application()  {
+		welComeAdmin.click();
+		
+		//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/auth/logout">Logout</a>
+			By logOutProperty=By.linkText("Logout");
+			WebElement logOut=driver.findElement(logOutProperty);
+			logOut.click();
+			// System.out.println(" Successfully LogOut from OrangeHRM Application");
+			Log.info("Successfully LogOut from OrangeHRM Application");
+	}
+    }
+
+Feature: OrangeHRM Application Functionalities Testing
+Background:
+Given User should open Chrome Browser in the System
+
+Scenario: Validating OrangeHRM Application LogIn WebPage
+
+
+When User should enter the OrangeHRM Application Url Address
+Then User should be navigated to OrangeHRM Application LogIn WebPage
+Then User should close the Chrome Browser along with OrangeHRM Application
+
+Scenario: Validating OrangeHRM Application LogIn Functionality Test
+
+#Given User should open Chrome Browser in the system
+When User should enter the OrangeHRM Application Url Address
+Then User should be navigated to OrangeHRM Application LogIn WebPage
+Then User should enter userName and Password and click on logIn button
+Then User should be navigated to OrangeHRM Application HomePage
+Then User should logout from the OrangeHRM Application 
+Then User should close the Chrome Browser along with OrangeHRM Application
+
+
+
+
+console feature: 
+
+You can implement missing steps with the snippets below:
+
+@Given("^User should open Chrome Browser in the System$")
+public void user_should_open_Chrome_Browser_in_the_System() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@When("^User should enter the OrangeHRM Application Url Address$")
+public void user_should_enter_the_OrangeHRM_Application_Url_Address() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^User should be navigated to OrangeHRM Application LogIn WebPage$")
+public void user_should_be_navigated_to_OrangeHRM_Application_LogIn_WebPage() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^User should close the Chrome Browser along with OrangeHRM Application$")
+public void user_should_close_the_Chrome_Browser_along_with_OrangeHRM_Application() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^User should enter userName and password and click on logIn button$")
+public void user_should_enter_userName_and_password_and_click_on_logIn_button() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^User should be navigated to OrangeHRM Application HomePage$")
+public void user_should_be_navigated_to_OrangeHRM_Application_HomePage() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+@Then("^User should logOut from the OrangeHRM Application$")
+public void user_should_logOut_from_the_OrangeHRM_Application() throws Throwable {
+    // Write code here that turns the phrase above into concrete actions
+    throw new PendingException();
+}
+
+
+
+

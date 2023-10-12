@@ -1,0 +1,12 @@
+package com.OrangeHRMApplicationPages;
+
+import com.BaseTest.BaseTest;
+
+public class OrangeHRMApplication_HomePage extends BaseTest {
+	
+	//<a href="#" id="welcome" class="panelTrigger">Welcome Admin</a>
+	//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/auth/logout">Logout</a>
+	
+	
+
+}

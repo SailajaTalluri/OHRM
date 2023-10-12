@@ -1,0 +1,4 @@
+<suite name="OrangeHRMApplication">
+<test name="com.OrangeHRMApplicationTesting">
+</test>
+</suite>

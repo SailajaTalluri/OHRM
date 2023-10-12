@@ -1,0 +1,55 @@
+package com.OHRM_MultipleTestData;
+
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+
+import org.apache.poi.ss.usermodel.Cell;
+import org.apache.poi.ss.usermodel.Row;
+import org.apache.poi.xssf.usermodel.XSSFSheet;
+import org.apache.poi.xssf.usermodel.XSSFWorkbook;
+import org.openqa.selenium.By;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.chrome.ChromeDriver;
+
+public class MultipleTestDataLoginPage_ExcelFile {
+
+	public static void main(String[] args) throws IOException {
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\dell\\Desktop\\OHRMAutomation\\WebApplicationTestingProject\\browserDriverFiles\\chromedriver.exe");
+		//ChromeDriver driver;
+				// WebDriver is an interface of Selenium
+
+				WebDriver driver;
+				driver=new ChromeDriver();
+				//Navigating to the application URL address
+				String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
+
+				// Excel file - with Test Data
+				FileInputStream orangeHRMApplicationLogInTestDataFile = new FileInputStream("./src/com/OrangeHRMApplicationValid_InvalidDataExcelDetails/OrangeHRMApplicationValid_InvalidDataExcelFile.xlsx");
+				XSSFWorkbook LoginTestDataworkBook = new XSSFWorkbook(orangeHRMApplicationLogInTestDataFile);
+				XSSFSheet LoginTestDataworkBookSheet = LoginTestDataworkBook.getSheet("Sheet1");
+      
+						//Identifying the number of Active Rows
+						int Sheet_rowCount = LoginTestDataworkBookSheet.getLastRowNum();
+						System.out.println("Sheet_rowCount");
+						//Printing  Valid and Invalid Properties
+						for (int rowIndex=1;rowIndex<=Sheet_rowCount;rowIndex++)
+						{
+			
+							Row testDataSheet_LoginPage=LoginTestDataworkBookSheet.getRow(rowIndex);
+							int testDataSheet_RowOfCell=testDataSheet_LoginPage.getLastCellNum();
+							try {
+								Row LoginTestDataRow=LoginTestDataworkBookSheet.getRow(rowIndex);
+								Cell UserNameLoginTestData=LoginTestDataRow.getCell(0);
+								String UserNameTestData=UserNameLoginTestData.getStringCellValue();
+								
+							}
+						
+							
+						
+					
+	
+
+			

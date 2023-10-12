@@ -1,0 +1,40 @@
+package com.OrangeHRMApplicationPages;
+
+import org.openqa.selenium.WebElement;
+import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.PageFactory;
+
+import com.BaseTest.BaseTest;
+
+public class OrangeHRMApplication_LogInPage extends BaseTest {
+
+	//This class will contain information about the elements present in the webpage
+	
+	//And also the Operations performed on these elements
+	
+	//These class is referred to as an "Object Repository Class
+	
+	public OrangeHRMApplication_LogInPage() // Constuctor - of Java
+	
+	//Whenever a class name is similar to Method Name then it is called as Constuctor
+	{
+		PageFactory.initElements(driver,this);
+	}
+	//<div id="logInPanelHeading">LOGIN Panel</div>
+	//WebElement logInPanel=driver.findElement("logInPanelHeading"));
+	
+	//Identification of the WebElements
+	@FindBy(id="logInPanelHeading")WebElement logInPanel;
+	
+	//Business Logics - Performing Operation on the WebElement
+	public void validatingLogInPanelText()
+	{
+		String expected_OrangeHRMApplicationLogInPageText="LOGIN Panel";
+		System.out.println("The Expected text of the OrangeHRM Application LogIn page is :-"+expected_OrangeHRMApplicationLogInPageText);
+		
+		String actual_OrangeHRMApplicationLogInPageText=logInPanel.getText();
+		
+	
+	
+}
+}
