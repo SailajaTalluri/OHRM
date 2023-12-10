@@ -1,6 +1,0 @@
-package com.OrangeHRMApplicationTesting_Log4j;
-
-public class OrangeHRMApplication_LogInTest extends BaseTest{
-	
-
-}

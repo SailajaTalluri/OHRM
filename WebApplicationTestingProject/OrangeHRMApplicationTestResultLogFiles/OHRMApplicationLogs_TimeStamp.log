@@ -185,3 +185,15 @@
 2023-10-06 23:56:30,954 - Log -INFO - Successfully Clicked on WelCome Admin
 2023-10-06 23:56:31,683 - Log -INFO - Successfully LogOut from OrangeHRM Application
 2023-10-06 23:56:32,383 - Log -INFO -  **** ChormeBrowser Closed with the OrangeHRM Application Successfully ********
+2023-10-16 16:35:02,542 - Log -INFO - ********* ChromeBrowser Launched Successfully ******** 
+2023-10-16 16:35:02,898 - Log -INFO - Successfully Navigated to OrangeHRM Application 
+2023-10-16 16:35:03,535 - Log -INFO - The UserName is :- Admin
+2023-10-16 16:35:03,604 - Log -INFO -  The password is :- Livetech@123
+2023-10-16 16:35:04,649 - Log -INFO - The expected Text of OrangeHRM Application Home Page is :- Admin
+2023-10-16 16:35:04,666 - Log -INFO - The Actual Text of OrangeHRM Application Home Page is :-Welcome Admin
+2023-10-16 16:35:04,668 - Log -INFO - Successfully Navigated to OrangeHRM Application HomePage is - PASS
+2023-10-16 16:35:05,435 - Log -INFO - Successfully Navigated to AddEmployee List
+2023-10-16 16:35:26,633 - Log -INFO - Employee Photograph Successfully Uploaded to the Application - PASS
+2023-10-16 16:35:26,693 - Log -INFO - Successfully Clicked on WelCome Admin
+2023-10-16 16:35:27,253 - Log -INFO - Successfully LogOut from OrangeHRM Application
+2023-10-16 16:35:27,979 - Log -INFO -  **** ChormeBrowser Closed with the OrangeHRM Application Successfully ********

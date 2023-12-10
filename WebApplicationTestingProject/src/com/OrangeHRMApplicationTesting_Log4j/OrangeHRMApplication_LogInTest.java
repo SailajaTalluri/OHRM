@@ -1,6 +1,5 @@
 package com.OrangeHRMApplicationTesting_Log4j;
 import java.io.FileInputStream;
-
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Properties;
@@ -11,7 +10,6 @@ import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
 import org.testng.annotations.Test;
-
 import com.Utility.Log;
 
 public class OrangeHRMApplication_LogInTest extends BaseTest {
@@ -31,7 +29,6 @@ public class OrangeHRMApplication_LogInTest extends BaseTest {
 		orangeHRMApplicationLogInTestDataFile=new FileInputStream("./src/com/OrangeHRMApplicationLoginTestDataFiles/OrangeHRMApplicationLoginTestData.xlsx");
 		workBook=new XSSFWorkbook(orangeHRMApplicationLogInTestDataFile);
 		logInTestDataSheet=workBook.getSheet("logInTestData");
-	
 	
 	//Identify the File in the System-properties file
 	orangeHRMApplicationPropertiesFile=new FileInputStream("./src/com/config/OrangeHRMApplication.properties");
@@ -125,7 +122,7 @@ public class OrangeHRMApplication_LogInTest extends BaseTest {
 	    Log.info("Successfully LogOut from OrangeHRM Application");
 		}
 	
-	}
+	    }
     
     
 

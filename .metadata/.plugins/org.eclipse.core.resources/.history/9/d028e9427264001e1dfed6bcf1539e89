@@ -1,3 +1,0 @@
-WinWaitActive("Open");
-ControlSend("Open","","Edit1","C:\Users\dell\Desktop\OHRMAutomation\WebApplicationTesting\EmployeePhotographs\LiveTech.png");
-ControlClick("Open","","Button1");

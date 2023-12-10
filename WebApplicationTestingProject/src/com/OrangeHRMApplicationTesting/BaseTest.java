@@ -14,7 +14,7 @@ public class BaseTest {
 	public void setUp() 
 	{
 		//Automating the ChromeBrowser
-		System.setProperty("webdriver.chrome.driver","./browserDriverFiles/chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","C:\\Users\\dell\\Desktop\\OHRMAutomation\\WebApplicationTestingProject\\browserDriverFiles\\chromedriver.exe");
 	   
 		driver=new ChromeDriver();
 		driver.get(applicationUrlAddress);

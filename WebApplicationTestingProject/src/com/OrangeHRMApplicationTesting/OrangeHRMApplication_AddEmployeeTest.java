@@ -102,10 +102,10 @@ public class OrangeHRMApplication_AddEmployeeTest extends BaseTest {
 		}
 		 
 		//Test Results exporting to another file - along with test data
-		FileOutputStream orangeHRMApplicationTestResultFile=new FileOutputStream ("./src/com/OrangeHRMApplicationLoginTestDataFiles/OrangeHRMApplicationLoginTestData.xlsx");
+		FileOutputStream orangeHRMApplicationTestResultFile=new FileOutputStream ("./src/com/OrangeHRMApplicationLoginTestDataResultFiles/OrangeHRMApplicationLoginTestResultFile.xlsx");
 		workBook.write(orangeHRMApplicationTestResultFile);
 		}
-	
+		
 	    @Test(priority=3,description=" Validating OrangeHRM Application HomePage PIM ")
 	    public void pimTest()
 	    {

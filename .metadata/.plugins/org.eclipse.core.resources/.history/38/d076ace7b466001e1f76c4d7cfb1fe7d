@@ -1,5 +1,0 @@
-Feature: OrangeHRM Application Functionalities Testing
-Scenario: Validating OrangeHRM Application LogIn WebPage
-
-Given User Should open ChromeBrowser in the System
-

@@ -13,7 +13,7 @@ public class OrangeHRMApplication_LogInPage extends BaseTest {
 	
 	//These class is referred to as an "Object Repository Class
 	
-	public OrangeHRMApplication_LogInPage() // Constuctor - of Java
+	public  OrangeHRMApplication_LogInPage() // Constructor - of Java
 	
 	//Whenever a class name is similar to Method Name then it is called as Constuctor
 	{
@@ -79,12 +79,13 @@ public class OrangeHRMApplication_LogInPage extends BaseTest {
 	WebElement logInPageLogInButton;
 	
 	//using parameters
-	public void orangeHRMApplicationLogInPage_logIn(String userNameTestData,String passwordTestData)
+	public void orangeHRMApplicationLogInPage_logIn(String userNameTestData,String passwordTestData) throws InterruptedException
 	{
 		userName.sendKeys(userNameTestData);
 		password.sendKeys(passwordTestData);
+		Thread.sleep(3000);
 		logInPageLogInButton.click();
 		
-		//Validating HomePage
+		
     }
 }

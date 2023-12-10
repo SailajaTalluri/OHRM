@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.OrangeHRMApplicationTesting_Log4j.OrangeHRMApplication_AddEmployeeTest_Log4j">
+      <class name="Excel_OhrmPractice.Ohrm_Excel_Practice">
         <methods>
-          <include name="setUp"/>
-          <include name="addNewEmployeeTest"/>
-          <include name="tearDown"/>
+          <include name="LoginPanelTest"/>
         </methods>
-      </class> <!-- com.OrangeHRMApplicationTesting_Log4j.OrangeHRMApplication_AddEmployeeTest_Log4j -->
+      </class> <!-- Excel_OhrmPractice.Ohrm_Excel_Practice -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

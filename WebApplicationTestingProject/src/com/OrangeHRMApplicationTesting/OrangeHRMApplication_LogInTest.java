@@ -1,8 +1,5 @@
 package com.OrangeHRMApplicationTesting;
-
 import java.io.FileInputStream;
-
-import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.util.Properties;
@@ -22,7 +19,7 @@ import com.Utility.Log;
 
 public class OrangeHRMApplication_LogInTest extends BaseTest {
 
-	FileInputStream orangeHRMApplicationLogInTestDataFile;
+	FileInputStream OrangeHRMApplicationLogInTestDataFile;
 	XSSFWorkbook workBook;
 	XSSFSheet logInTestDataSheet;
 	Row testDataRow;
@@ -34,10 +31,9 @@ public class OrangeHRMApplication_LogInTest extends BaseTest {
 	public void orangeHRMApplication_LogInTest() throws IOException
 	{
 		//Excel file-with TestData
-		orangeHRMApplicationLogInTestDataFile=new FileInputStream("./src/com/OrangeHRMApplicationLoginTestDataFiles/OrangeHRMApplicationLoginTestData.xlsx");
-		workBook=new XSSFWorkbook(orangeHRMApplicationLogInTestDataFile);
+		OrangeHRMApplicationLogInTestDataFile=new FileInputStream("./src/com/OrangeHRMApplicationLoginTestDataFiles/OrangeHRMApplicationLoginTestData.xlsx");
+		workBook=new XSSFWorkbook(OrangeHRMApplicationLogInTestDataFile);
 		logInTestDataSheet=workBook.getSheet("logInTestData");
-	
 	
 	//Identify the File in the System-properties file
 	orangeHRMApplicationPropertiesFile=new FileInputStream("./src/com/config/OrangeHRMApplication.properties");
@@ -106,7 +102,7 @@ public class OrangeHRMApplication_LogInTest extends BaseTest {
 		}
 		 
 		//Test Results exporting to another file - along with test data
-		FileOutputStream orangeHRMApplicationTestResultFile=new FileOutputStream ("./src/com/OrangeHRMApplicationLoginTestDataFiles/OrangeHRMApplicationLoginTestData.xlsx");
+		FileOutputStream orangeHRMApplicationTestResultFile=new FileOutputStream ("./src/com/OrangeHRMApplicationLoginTestDataResultFiles/OrangeHRMApplicationLoginTestResultFile.xlsx");
 		workBook.write(orangeHRMApplicationTestResultFile);
 		}
 	    
@@ -123,7 +119,7 @@ public class OrangeHRMApplication_LogInTest extends BaseTest {
 	logOut.click();
     System.out.println("Successfully LogOut from OrangeHRM Application");
 	}
-
-}
+	
+    }
 
 

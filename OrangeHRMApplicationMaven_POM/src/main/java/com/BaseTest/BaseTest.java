@@ -14,12 +14,12 @@ public class BaseTest {
 	public static WebDriver driver;
 	String applicationUrlAddress="http://127.0.0.1/orangehrm-4.2.0.1/symfony/web/index.php/auth/login";
 	
-	@BeforeMethod
+	@BeforeTest
 	public void setUp() 
 	{
 		
 		//Automating the ChromeBrowser
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\dell\\Desktop\\OHRMAutomation\\OrangeHRMApplicationMaven_POM\\browserDriverFiles\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver","./browserDriverFiles/chromedriver.exe");
 	   
 		driver=new ChromeDriver();
 		//System.out.println("******** Chrome Browser Launched Successfully **********");
@@ -38,7 +38,7 @@ public class BaseTest {
 		driver.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
 		}
 	
-	@AfterMethod
+	@AfterTest
 	public void tearDown()
 	{
 		driver.quit();

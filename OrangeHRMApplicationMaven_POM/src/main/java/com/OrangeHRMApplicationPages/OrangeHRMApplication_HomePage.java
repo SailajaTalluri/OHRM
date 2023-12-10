@@ -15,14 +15,14 @@ public class OrangeHRMApplication_HomePage extends BaseTest {
 	
 	//<a href="#" id="welcome" class="panelTrigger">Welcome Admin</a>
 	//id="welcome"
-  // WebElement welComeAdminProperty=driver.findElement(By.id("welComeAdminProperty"));
+   // WebElement welComeAdminProperty=driver.findElement(By.id("welComeAdminProperty"));
 	
 	//Identification of the WebElements
 	@FindBy(id="welcome")
 	WebElement welComeAdmin;
 	
 	//Business Logics - Performing Operation on the WebElement
-	public void ValidatingOrangeHRMApplicationHomePageText()
+	public void ValidatingOrangeHRMApplicationHomePageText() 
 	{
 		String expected_OrangeHRMApplicationHomePageText="Admin";
 		System.out.println("The expected Text of OrangeHRM Application Home Page is :-"+expected_OrangeHRMApplicationHomePageText);
@@ -35,17 +35,28 @@ public class OrangeHRMApplication_HomePage extends BaseTest {
 	    }
 		else
 		{
-			System.out.println("Failed to Navigat to OrangeHRM Application HomePage - FAIL");
+			System.out.println("Failed to Navigated to OrangeHRM Application HomePage - FAIL");
 
 		}
 	
 		//<a href="/orangehrm-4.2.0.1/symfony/web/index.php/auth/logout">Logout</a>
 	    //linkText="Logout"
+		
 		welComeAdmin.click();
+
 		System.out.println("Successfully Clicked on welCome Admin");
-		
-		
-		
 	}
-	}	
-        
+	
+ //<a href="/orangehrm-4.2.0.1/symfony/web/index.php/auth/logout">Logout</a>  
+
+ @FindBy(linkText = "Logout")
+ WebElement Logout;
+  
+public void orangeHRMApplication_Logout() throws InterruptedException
+{
+Thread.sleep(5000);
+welComeAdmin.click();
+ Logout.click();
+ System.out.println("The logout button action successfully performed");
+}
+}

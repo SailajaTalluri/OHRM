@@ -1,7 +1,0 @@
-<suite name="OrangeHRMApplication">
-<test name="OrangeHRMApplication_LogInTest">
-<classes>
-<class name="com.OrangeHRMApplicationTesting.OrangeHRMApplication_LogInTest"/>
-</classes>
-</test>
-</suite>
